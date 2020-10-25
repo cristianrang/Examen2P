@@ -15,6 +15,10 @@
 			<Item Name="MXN Actor.lvlib" Type="Library" URL="../MXN Actor/MXN Actor.lvlib"/>
 			<Item Name="USD Actor.lvlib" Type="Library" URL="../USD Actor/USD Actor.lvlib"/>
 		</Item>
+		<Item Name="Product Actors" Type="Folder">
+			<Item Name="Sabritas Actor.lvlib" Type="Library" URL="../Sabritas Actor/Sabritas Actor.lvlib"/>
+			<Item Name="Coca Actors.lvlib" Type="Library" URL="../Coca Actors/Coca Actors.lvlib"/>
+		</Item>
 		<Item Name="UI Actor.lvlib" Type="Library" URL="../UI Actor/UI Actor.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -25,6 +29,7 @@
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="NI_SystemLogging.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/SystemLogging/NI_SystemLogging.lvlib"/>
 				<Item Name="Time-Delay Override Options.ctl" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delay Override Options.ctl"/>
+				<Item Name="Casting Utility For Actors.vim" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Actor/Casting Utility For Actors.vim"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/Dialog/lvconfig.llb/LV Config Read String.vi"/>
