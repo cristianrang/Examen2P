@@ -4,7 +4,10 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="BuyProductsSabritas Msg.lvclass" Type="LVClass" URL="../../Sabritas Actor Messages/BuyProductsSabritas Msg/BuyProductsSabritas Msg.lvclass"/>
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../Sabritas Actor Messages/Init Msg/Init Msg.lvclass"/>
+		<Item Name="SelectProductsSabritas Msg.lvclass" Type="LVClass" URL="../../Sabritas Actor Messages/SelectProductsSabritas Msg/SelectProductsSabritas Msg.lvclass"/>
+		<Item Name="UpdateInventorySabritas Msg.lvclass" Type="LVClass" URL="../../Sabritas Actor Messages/UpdateInventorySabritas Msg/UpdateInventorySabritas Msg.lvclass"/>
 	</Item>
 	<Item Name="Sabritas Actor.lvclass" Type="LVClass" URL="../Sabritas Actor.lvclass"/>
 </Library>

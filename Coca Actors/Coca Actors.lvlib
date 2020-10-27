@@ -7,6 +7,7 @@
 		<Item Name="BuyProduct Msg.lvclass" Type="LVClass" URL="../../Coca Actors Messages/BuyProduct Msg/BuyProduct Msg.lvclass"/>
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../Coca Actors Messages/Init Msg/Init Msg.lvclass"/>
 		<Item Name="Select Products Msg.lvclass" Type="LVClass" URL="../../Coca Actors Messages/Select Products Msg/Select Products Msg.lvclass"/>
+		<Item Name="UpdateInventory Msg.lvclass" Type="LVClass" URL="../../Coca Actors Messages/UpdateInventory Msg/UpdateInventory Msg.lvclass"/>
 	</Item>
 	<Item Name="Coca Actors.lvclass" Type="LVClass" URL="../Coca Actors.lvclass"/>
 </Library>
