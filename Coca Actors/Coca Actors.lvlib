@@ -4,7 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="BuyProduct Msg.lvclass" Type="LVClass" URL="../../Coca Actors Messages/BuyProduct Msg/BuyProduct Msg.lvclass"/>
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../Coca Actors Messages/Init Msg/Init Msg.lvclass"/>
+		<Item Name="Select Products Msg.lvclass" Type="LVClass" URL="../../Coca Actors Messages/Select Products Msg/Select Products Msg.lvclass"/>
 	</Item>
 	<Item Name="Coca Actors.lvclass" Type="LVClass" URL="../Coca Actors.lvclass"/>
 </Library>

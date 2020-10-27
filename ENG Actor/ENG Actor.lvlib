@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../ENG Actor Messages/Init Msg/Init Msg.lvclass"/>
+		<Item Name="Update MSG Msg.lvclass" Type="LVClass" URL="../../ENG Actor Messages/Update MSG Msg/Update MSG Msg.lvclass"/>
 	</Item>
 	<Item Name="ENG Actor.lvclass" Type="LVClass" URL="../ENG Actor.lvclass"/>
 </Library>
